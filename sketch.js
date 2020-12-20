@@ -99,7 +99,7 @@
     
     //console.time();//time taken for function draw to work.
      
-    background("blue");
+    background("white");
     console.log("the gameState is :" + " " + gameState);
     
     if (gameState === PLAY){
